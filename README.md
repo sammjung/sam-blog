@@ -1,4 +1,4 @@
-# Sam Jung's Blog
+# Valleyslop Blog
 
 A minimalist, black and white blog built with HTML, CSS, and JavaScript.
 
@@ -10,14 +10,9 @@ A minimalist, black and white blog built with HTML, CSS, and JavaScript.
 - Responsive layout
 - Easy to deploy to GitHub Pages
 
-## Deployment to GitHub Pages
+## Deployment
 
-1. Push your code to a GitHub repository
-2. Go to your repository's Settings
-3. Scroll down to the "GitHub Pages" section
-4. Under "Source", select "main" branch
-5. Click "Save"
-6. Your site will be published at `https://[your-username].github.io/[repository-name]`
+This site is deployed at valleyslop.com using GitHub Pages.
 
 ## Adding New Posts
 
